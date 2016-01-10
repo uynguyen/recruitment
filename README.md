@@ -17,4 +17,4 @@ The `order_items` array in each document in `orders.json` is the list of item in
 * Satisfy the objective described above
 
 ## Submission
-Please create a *pull request* and submit it to this repository.
+Please create a pull request and submit it to this repository.
